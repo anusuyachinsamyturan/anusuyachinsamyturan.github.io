@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 # Academic Books
 ## The microstructure of dinosaur bone: deciphering biology with fine-scale techniques
+For millions of years, clues to the biology of dinosaurs lie locked within the microscopic structure of their bones. Here one of the world's leading experts on fossil bone microstructure synthesizes more than 150 years of research to expose the meaning of dinosaur bone microstructure.
 
+In this first book dedicated to dinosaur bone microstructure, Anusuya Chinsamy-Turan begins with a general overview of living bone structure and composition and then explains how bone structure changes upon death and during fossilization. She meticulously unravels why the microscopic structure of fossil bone remains intact after millions of years of fossilization. She also provides a photographic atlas of the kinds of bone tissue found in dinosaurs and expounds on their biological significance. The final chapters offer insight into growth patterns of dinosaurs and the biology of Mesozoic birds. The book concludes with a reflective discussion on what bone microstructure can and cannot disclose about dinosaur physiology. Drawing from sources across the field of bone histology, Chinsamy-Turan paints a holistic view of the current state of the science and presents a fresh perspective on the relevance of the field to understanding the Dinosauria.
 
 # Popular Science Books
 
