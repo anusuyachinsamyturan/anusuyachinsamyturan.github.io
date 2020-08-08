@@ -3,7 +3,7 @@ title: "Extinctions: Past and Present"
 collection: talks
 type: "Talk"
 permalink: /talks/extinctions
-date: 2017
+date: 2017-03-20
 location: "Future Learn"
 ---
 
