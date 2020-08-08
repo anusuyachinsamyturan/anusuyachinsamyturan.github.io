@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Online Talks"
-    url: /talks/        
+  - title: "Online Course"
+    url: /mooc/        
    
   - title: "CV"
     url: /cv/
