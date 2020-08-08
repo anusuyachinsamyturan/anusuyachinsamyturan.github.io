@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /mooc.html
 ---
+<img src='/images/Extintio Past and present.jpg'>
 
 [This free online course](https://www.futurelearn.com/courses/extinctions-past-present) explores how life on earth has been shaped by five mass extinction events in the distant past. As of August 2020 it is in the top 50 online courses on Class Central, and is the number 1 course in the Science category. 
 
