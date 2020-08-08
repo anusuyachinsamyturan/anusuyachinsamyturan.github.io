@@ -7,7 +7,7 @@ redirect_from:
   - /mooc.html
 ---
 
-[This free online course](https://www.classcentral.com/course/extinctions-past-present-8004) explores how life on earth has been shaped by five mass extinction events in the distant past. As of August 2020 it is in the top 50 online courses on Class Central, and is the number 1 course in the Science category. 
+[This free online course](https://www.futurelearn.com/courses/extinctions-past-present) explores how life on earth has been shaped by five mass extinction events in the distant past. As of August 2020 it is in the top 50 online courses on Class Central, and is the number 1 course in the Science category. 
 
 # Explore the five mass extinctions of the past
 
@@ -15,8 +15,6 @@ Each week there are discussions with scientists about how their research informs
 # The threat of a “sixth extinction” today
 
 Turning to the present and the anthropocene period, we look at how human behaviour is now beginning to impact the Earth’s ecosystems. We consider the threat of the so-called ‘sixth extinction’, finding out how our actions are reducing biodiversity and threatening the survival of many species.
-# Learn with one of the world’s leading paleontologists
 
-‘Extinctions: Past and Present’ is created by the University of Cape Town, and filmed on location at South Africa’s Iziko Museum, West Coast Fossil Park, Kirstenbosch National Botanical Gardens, and the Table Mountain National Park. 
-You will learn with Professor Anusuya Chinsamy-Turan – an acclaimed paleobiologist, author of a range of academic and children’s books on fossils, and former South African Woman of the Year. In 2013 she was awarded The World Academy of Science’s Sub-Saharan Prize for the Public Understanding and Popularization of Science. 
-The course is suitable for anyone with an interest in science or environmental issues. No previous experience is required. While scientific names are used, to for example identify extinct life forms, knowing these is not required to follow the course. We do offer glossaries and explain terms as we go along so you will be able to follow the themes of the course.
+# Award winning MOOC
+From 2017 this course has been in the top courses at Class Central, and as of August 2020 it is still in the top 50 online courses on Class Central, and is the number 1 course in the Science category. The course is still active, and myself and mentors are available during the course. For reviews, see [class central](https://www.classcentral.com/course/extinctions-past-present-8004).
