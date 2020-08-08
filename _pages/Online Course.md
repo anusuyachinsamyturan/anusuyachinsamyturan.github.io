@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /mooc/
 title: "Extinctions: Past and Present"
 excerpt: "Online Course"
 author_profile: true
