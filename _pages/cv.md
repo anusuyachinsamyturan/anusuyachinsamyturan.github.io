@@ -10,14 +10,12 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
 * Ph.D. University of the Witwatersrand, South Africa, 1991
 * MSc. University of the Witwatersrand. Upgraded to PhD in 1988
 * University Higher Diploma in Education(U. H. D. E), University of Durban-Westville, Natal, South Africa, 1985
 * B.Sc. (Hon.) University of the Witwatersrand, 1984
 * B.Sc. University of the Witwatersrand, 1983
 # Work experience
-======
 * Professor and Head, Department of Biological Sciences, University of Cape Town, 2013- 2015
 * Professor and Head, Department of Zoology, Univeristy of Cape Town, 2012.
 * Professor, Department of Zoology, University of Cape Town, 2004-current
