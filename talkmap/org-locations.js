@@ -81,8 +81,8 @@ var addressPoints = [
   ],
   [
     "Tokyo Japan ",
-    55.7746222,
-    37.6326806
+    35.689506,
+    139.6917
   ],
   [
     "Jena Germany ",
