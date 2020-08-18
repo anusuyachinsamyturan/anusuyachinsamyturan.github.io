@@ -20,4 +20,4 @@ redirect_from:
  - [Interviewing](https://www.youtube.com/watch?v=YU9AvDHKJTQ&t=41s) my PhD student, German Montoya Sanhueza about his research on burrowing mammals
  
 # Locations
-See the places [where I have talked](https://anusuyachinsamyturan.github.io/talkmap.html).
+See the places [where I have given talks](https://anusuyachinsamyturan.github.io/talkmap.html).
