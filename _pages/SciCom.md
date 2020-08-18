@@ -21,3 +21,7 @@ redirect_from:
  
 # Locations
 See the places [where I have given talks](https://anusuyachinsamyturan.github.io/talkmap.html).
+
+# Facebook pages
+- [UCT palaeobiology](https://www.facebook.com/UCT-Palaeobiology-143627312363044/?ref=bookmarks)
+- [Extinctions- past and present](https://www.facebook.com/UCT-Palaeobiology-143627312363044/?ref=bookmarks)
