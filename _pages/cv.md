@@ -25,8 +25,5 @@ redirect_from:
 * Specialist Scientist, South African Museum, Cape Town, South Africa, secondment for 50% of time from UCT, 1997-2001
 * Specialist Scientist, South African Museum, Cape Town, South Africa 1994-1996
 * Postdoctoral Fellow, University of Pennsylvania, Philadelphia, USA 1992-1994
-* Lecturer, Bernard Price Institute for Palaeontological Research, University of the Witwatersrand, Johannesburg, South Africa. 1991-1992
-* Part-time Lecturer, Schemerenbeck Centre for Gifted Children, Johannesburg, 1991-1992
-* Junior Lecturer, Bernard Price Institute for Palaeontological Research, University of the Witwatersrand, Johannesburg, South Africa. 1988-1990
-* Trainee Teacher, Burnwood Secondary School, Durban, Natal, 1985
+
   
