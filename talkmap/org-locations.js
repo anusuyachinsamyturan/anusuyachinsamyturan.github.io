@@ -1,6 +1,16 @@
 var addressPoints = [
  [
-    "Brisbane",
+    "PCST, Dunedin",
+    -45.88359,
+   170.47424
+  ],
+ [
+    "CAVEPS, Queenstown",
+    -45.0327,
+   168.658
+  ],
+ [
+    "SVP, Brisbane",
     -27.47126,
     153.02385
   ],
@@ -16,7 +26,7 @@ var addressPoints = [
   ],
    [
     "Indian Institute of Technology, Kharagpur",
-    22,319714,
+    22.319714,
   87.30997  
   ],
   [
