@@ -1,4 +1,9 @@
 var addressPoints = [
+ [
+    "Brisbane",
+    -27.47126,
+    153.02385
+  ],
   [
     "Diamante",
     -32.06971,
@@ -6,13 +11,13 @@ var addressPoints = [
   ],
   [
     "Indian Statistical Institute, Kolkata",
-    22,648155,
-   88,376816
+    22.648155,
+   88.376816
   ],
    [
     "Indian Institute of Technology, Kharagpur",
     22,319714,
-  87,30997  
+  87.30997  
   ],
   [
     "IVPP, Beijing",
@@ -26,18 +31,18 @@ var addressPoints = [
   ], 
   [
     "Alice Springs",
-    -23,70267,
-  133,88133
+    -23.70267,
+  133.88133
   ], 
   [
     "Bangalore",
-    12,96697,
-  77,58728
+    12.96697,
+  77.58728
   ], 
   [
     "Yale University",
-    41,310253,
-   -72,92642
+    41.310253,
+   -72.92642
   ], 
   [
     "Oslo",
