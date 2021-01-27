@@ -1,4 +1,14 @@
 var addressPoints = [
+[
+    "ICP, Mendoza",
+    -32.87791,
+   -68.86457
+  ],
+ [
+    "Tokyo Science Museum",
+    35.68321,
+  139.80894
+  ],
  [
     "PCST, Dunedin",
     -45.88359,
