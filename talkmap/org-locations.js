@@ -37,7 +37,7 @@ var addressPoints = [
   [
     "Yale University",
     41,310253,
-  -72,92642
+   -72,92642
   ], 
   [
     "Oslo",
