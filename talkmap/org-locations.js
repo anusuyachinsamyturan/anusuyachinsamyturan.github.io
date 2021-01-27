@@ -1,8 +1,28 @@
 var addressPoints = [
+[
+    "IVPP, Beijing",
+    39.9075000,
+  116.3972300
+  ], 
   [
-    "Yale",
-    41.3163,
-    -72.9223
+    "Flinders University",
+    -34.92866,
+  138.59863
+  ], 
+  [
+    "Alice Springs",
+    -23,70267,
+  133,88133
+  ], 
+  [
+    "Bangalore",
+    12,96697,
+  77,58728
+  ], 
+  [
+    "Yale University",
+    41,310253,
+  -72,92642
   ], 
   [
     "Oslo",
