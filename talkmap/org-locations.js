@@ -1,5 +1,20 @@
 var addressPoints = [
-[
+  [
+    "Diamante",
+    -32.06971,
+    -60.637871
+  ],
+  [
+    "Indian Statistical Institute, Kolkata",
+    22,648155,
+   88,376816
+  ],
+   [
+    "Indian Institute of Technology, Kharagpur",
+    22,319714,
+  87,30997  
+  ],
+  [
     "IVPP, Beijing",
     39.9075000,
   116.3972300
